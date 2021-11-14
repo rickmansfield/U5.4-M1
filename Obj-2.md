@@ -18,28 +18,21 @@ class Graph:
         }
 
 ```
-"""WARNING""" this is incomplete
 
-2. Using the same graph, write python code to represent the graph in an adjacency matrix. 
+1. Using the same graph, write python code to represent the graph in an adjacency matrix. 
 ```python
 class Graph:
     def _init_(self):
         self.edges = [
-        [0, 1, 0, 0, 0]  
-        [0, 1, 3, 2, 0],
-        [0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0],
+        [0, 1, 0, 0, 0, 0, 0]  
+        [0, 0, 3, 2, 1, 0, 0],
+        [0, 0, 0, 0, 4, 0, 0],
+        [0, 0, 0, 0, 2, 0, 0],
+        [0, 0, 0, 0, 0, 3, 0],
+        [0, 0, 0, 1, 0, 0, 0],
         ]
-
-
-
-
-
-
 ```
-
+3. Write a paragraph that compares and contrasts the efficiency of your different representations. 
 
 
 
