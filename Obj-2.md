@@ -19,19 +19,30 @@ class Graph:
 
 ```
 
-1. Using the same graph, write python code to represent the graph in an adjacency matrix. 
+2. Using the same graph, write python code to represent the graph in an adjacency matrix. 
 ```python
 class Graph:
     def _init_(self):
         self.edges = [
         [0, 1, 0, 0, 0, 0, 0]  
         [0, 0, 3, 2, 1, 0, 0],
-        [0, 0, 0, 0, 4, 0, 0],
+        [0, 0, 0, 4, 0, 0, 0],
         [0, 0, 0, 0, 2, 0, 0],
         [0, 0, 0, 0, 0, 3, 0],
+        [0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 1, 0, 0, 0],
         ]
 ```
+the above graph is based on this matrix
+    A B C D E F G 
+A     
+B   1
+C     3
+D     2         1
+E     1 4 2
+F           3
+G
+
 3. Write a paragraph that compares and contrasts the efficiency of your different representations. 
 
 
