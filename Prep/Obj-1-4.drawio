@@ -86,10 +86,10 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="17" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;DAG of 7 verts.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="280" y="110" width="130" height="20" as="geometry"/>
+                    <mxGeometry x="305" y="110" width="130" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="&lt;h4 id=&quot;directed-acyclic-graphs-dags&quot; style=&quot;margin: 1.25rem 0px 0.625rem ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; line-height: 2.375rem ; font-size: 1.25rem ; color: rgb(27 , 33 , 44) ; background-color: rgb(255 , 255 , 255)&quot;&gt;Directed Acyclic Graphs (DAGs)&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="90" y="385" width="320" height="70" as="geometry"/>
+                    <mxGeometry x="220" y="340" width="320" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
