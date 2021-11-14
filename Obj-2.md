@@ -34,6 +34,7 @@ class Graph:
         ]
 ```
 the above graph is based on this matrix
+```
     A B C D E F G 
 A     
 B   1
@@ -42,7 +43,7 @@ D     2         1
 E     1 4 2
 F           3
 G
-
+```
 3. Write a paragraph that compares and contrasts the efficiency of your different representations. 
 
 
