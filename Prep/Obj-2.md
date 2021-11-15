@@ -44,6 +44,10 @@ E     1 4 2
 F           3
 G
 ```
+refer to this resource image
+
+![image](/assets/ExampleMatrix.JPG) ![image](/assets/ExampleMatrixGraph.JPG)
+
 3. Write a paragraph that compares and contrasts the efficiency of your different representations. 
 
 
