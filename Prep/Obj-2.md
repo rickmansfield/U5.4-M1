@@ -36,13 +36,13 @@ class Graph:
 the above graph is based on this matrix
 ```
     A B C D E F G 
-A     
-B   1
-C     3
-D     2         1
-E     1 4 2
-F           3
-G
+A   0 0 0 0 0 0 0 
+B   1 0 0 0 0 0 0
+C   0 3 0 0 0 0 0 
+D   0 2 0 0 0 0 1
+E   0 1 4 2 0 0 0
+F   0 0 0 0 3 0 0
+G   0 0 0 0 0 0 0
 ```
 refer to this resource image
 
