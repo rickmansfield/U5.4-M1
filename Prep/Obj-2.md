@@ -1,7 +1,7 @@
 # Unit 5.4 M1 Objective 2
 
 Note remember to refer to the markdown preview of this file to see the picture. 
-![image](assets/GraphA.JPG)
+![image](/assets/GraphA.JPG)
 
 1. Using the graph show in this picture, write python code to represen the graph in an adjacency list. 
 ```python
