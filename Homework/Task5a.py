@@ -8,9 +8,9 @@ def all_paths(G):
         # remember popleft only applies to deque
         # there is no popright() pop() pops from right
         # or pop(0) removes the left most element. 
-        if curNode = n-1:
+        if curNode == n-1:
             ans.append(path)
             for nextNode in G[curList]:
                 q.append((next.node, path+[next.node]))
                 
-            retun ans
+            return ans

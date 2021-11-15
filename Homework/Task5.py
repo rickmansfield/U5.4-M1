@@ -1,7 +1,8 @@
+# see Tom's solutions under assets
+
 def solution(graph):
-    # figure out how to get what node is the end node
+    target = len(graph) - 1
     result = []
-    
     s = [[0]]
     path = s.pop()
     node path[-1]
