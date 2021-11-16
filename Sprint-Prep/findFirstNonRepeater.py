@@ -32,6 +32,6 @@ def firstNoneRepeater3(string):
         if string.count(eachChar) == 1: #O(n^2)
             return eachChar
 
-def first_Nonrepeating_char(string):
-    res = ""
-    d
+# def first_Nonrepeating_char(string):
+#     res = ""
+#     d
