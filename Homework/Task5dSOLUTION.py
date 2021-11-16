@@ -12,8 +12,11 @@ def allPathsSourceTarget(G): #List[List[int]]) #-> List[List[int]]:
     while q:
         curPath = q.popleft()
         curNode = curPath[-1]
+        
         if curNode == n - 1:
             ans.append(curPath)
+        
         for nextNode in G[curNode]:
             q.append(curPath + [nextNode])
+    
     return sorted(ans)
